@@ -15,5 +15,3 @@
 5-2 队列的实现以及实例1：方块舞伴分配
 5-4 实例2：使用队列对数据进行排序
 
-## 保持更新中
-**部分代码出处：Data Structure and Algorithms Using JavaScript, Michael McMillan 著(O'Reilly,2014)**
